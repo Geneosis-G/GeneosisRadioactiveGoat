@@ -1,0 +1,25 @@
+This is why you should not raise goats in a nuclear plant.
+
+Why would you even do that in the first place you say? Well some scientists think goats may be used to produce unlimited energy, don't ask me how, but this involves goats and radioactivity...
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Radioactive Goat: You are radioactive.
+
+[b]CHARACTERISTICS[/b]
+- Radioactivity is visible as a small cloud of particles.
+- Radioactivity will spread randomly to nearby items and creatures.
+- Radioactive creatures take damages permanently.
+- Radioactive breakable items have a random chance to break over time.
+- Radioactive explosive items have a random chance to explode over time.
+- You can't "clean" a radioactive item.
+
+[b]KNOWN BUGS[/b]
+- You will experience lag spikes if radioactivity spread in an area with a lot of items.
+- The game will become laggy if radioactivity break an item on top of a movable item (eg: plate break on table). Try to find those items and move them around to stop the lag.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]This was a short yet fun mod to create :) I think the idea in the first place was to give to radioactive items a green glowing texture... But I replaced that by the flying particles for extended compatibility with other existing mods that replace the texture of items already ^^
+So this mod work in a similar way the electric magic from Wizard Goat works. Attaching the particles to an item, periodically damaging this item, and trying to spread itself to nearby items. As there is no way to cancel radioactivity it was somehow easier to manage.
+[/quote]
